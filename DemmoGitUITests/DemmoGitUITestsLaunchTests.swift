@@ -6,7 +6,7 @@
 //
 
 import XCTest
-
+//
 class DemmoGitUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
