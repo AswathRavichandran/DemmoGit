@@ -8,17 +8,16 @@
 import UIKit
 //Albert Edit
 //Aswath Edit
-//Aravinthan
+//Aravinthan Edit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
         print("hi")
         print("how are you")
         print("Hi i am Aravinthan")
+        print("Hi i am AlbertvincentMichael")
     }
-
 
 }
 
