@@ -30,10 +30,10 @@
                                 <buttonConfiguration key="configuration" style="plain" title="Albert"/>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="t4i-QU-8h0">
-                                <rect key="frame" x="160" y="279" width="94" height="31"/>
+                                <rect key="frame" x="156" y="279" width="102" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Aravinthan"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Aravinthann"/>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
