@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("Hi i am Aravinthan")
         print("Hi i am AlbertvincentMichael")
         print("This is friday")
+        print("hi aswath")
     }
 
 }
